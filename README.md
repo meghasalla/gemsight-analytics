@@ -94,10 +94,6 @@ The dashboard is saved to `reports/figures/jewelry_retail_dashboard.png`.
 - Regional averages highlight where deeper store-level investigation is needed; they do not prove regional causation.
 - A centered, pattern-free residual plot suggests the planning forecast is reasonably balanced. Curves or funnels would indicate model limitations.
 
-## Interview story
-
-Explain that you began with leadership questions, selected one chart per decision, created a coherent multi-plot layout, and added units and labels so nontechnical stakeholders could interpret it. Then discuss the limits of visual inference: correlation is not causation, aggregated views may hide store-level differences, and synthetic results must not be treated as real business evidence.
-
 ## License
 
 Released under the MIT License.
